@@ -28,7 +28,7 @@ int main()
   cout << endl;
   
   temp = evens;
-  //cout << "HERE";
+ 
   while(temp !=NULL){
     //cout << temp->value; 
     Node* next = temp->next;
